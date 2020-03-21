@@ -6,5 +6,5 @@ Como subir cambios a la carpeta:
 3. git commit -m "cualquier comment"            ->Para guardar cambios en disco
 4. git push
 
-
-git status      				-> Para ver el estado de la rama 
+6. git pull					-> traer los archivos del server
+5. git status      				-> Para ver el estado de la rama 
