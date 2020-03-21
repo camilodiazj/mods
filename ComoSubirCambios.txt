@@ -8,3 +8,4 @@ Como subir cambios a la carpeta:
 
 6. git pull					-> traer los archivos del server
 5. git status      				-> Para ver el estado de la rama 
+Hola
