@@ -7,4 +7,5 @@ Como subir cambios a la carpeta:
 4. git push					->Subir los archivos 
 
 6. git pull					-> traer los archivos del server
-5. git status      				-> Para ver el estado de la rama 
+5. git status      				-> Para ver el estado de la rama
+7. git fetch
