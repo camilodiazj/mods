@@ -1,0 +1,10 @@
+Como subir cambios a la carpeta: 
+
+
+1. Abrir consola de comandos dentro del respositorio/carpeta.
+2. git add .           				->Para guardar los cambios realizados en cache
+3. git commit -m "cualquier comment"            ->Para guardar cambios en disco
+4. git push
+
+
+git status      				-> Para ver el estado de la rama 
